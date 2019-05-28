@@ -17,9 +17,9 @@
   <strong>Follow the below steps to run the application:</strong>
   <ol>
     <li>git fork/clone the repo.</li>
-    <li>&nbsp;</li>
+    <br/>
     <li>npm install (npm > 8.0)</li>
-    <li>&nbsp;</li>
+    <br/>
     <li>npm run start</li>
   </ol>
 </div>

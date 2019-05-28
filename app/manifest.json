@@ -1,0 +1,15 @@
+{
+    "short_name": "AasaanJobs",
+    "name": "AasaanJobs Frontend Task",
+    "icons": [
+      {
+        "src": "/images/logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#fff",
+    "display": "standalone",
+    "theme_color": "#3367D6"
+  }
