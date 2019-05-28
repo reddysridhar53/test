@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"19be155092ade822ed25":function(e,o,n){"use strict";var a=n("0b3cb19af78752326f59"),c=n("e95a63b25fb92ed15721");o.a=Object(a.c)(c.Link).withConfig({displayName:"BackButton",componentId:"sc-8ta07w-0"})(["color:rgb(162,103,214);display:flex;font-size:1.5em;margin:1em 0;cursor:pointer;&:hover{color:rgb(83,77,253);}"])}}]);
